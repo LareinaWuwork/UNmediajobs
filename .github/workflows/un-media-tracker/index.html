@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>UN Media & Communications Jobs Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <p class="eyebrow">Updated daily</p>
+    <h1>UN Media & Communications Jobs Tracker</h1>
+    <p class="intro">Focused on communications, public information, digital media, journalism, video, advocacy and partnerships roles across the UN system.</p>
+  </header>
+
+  <main>
+    <section class="toolbar">
+      <input id="searchInput" type="search" placeholder="Search title, location, organization..." />
+      <div class="filters" id="filters">
+        <button class="active" data-filter="All">All</button>
+        <button data-filter="Communications">Communications</button>
+        <button data-filter="Public Information">Public Information</button>
+        <button data-filter="Digital / Social Media">Digital / Social Media</button>
+        <button data-filter="Video / Multimedia">Video / Multimedia</button>
+        <button data-filter="Advocacy / Outreach">Advocacy / Outreach</button>
+        <button data-filter="Partnerships">Partnerships</button>
+      </div>
+    </section>
+
+    <section class="summary">
+      <span id="jobCount">Loading jobs...</span>
+      <span id="lastUpdated"></span>
+    </section>
+
+    <section id="jobsGrid" class="jobs-grid"></section>
+  </main>
+
+  <footer>Built for focused UN media and communications job tracking.</footer>
+  <script src="script.js"></script>
+</body>
+</html>
