@@ -3,39 +3,224 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>UN Media & Communications Jobs Tracker</title>
-  <link rel="stylesheet" href="style.css" />
+  <title>UN Media Jobs Tracker</title>
+
+  <style>
+    * {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+      background: #f6f7f9;
+      color: #1f2937;
+      line-height: 1.6;
+    }
+
+    header {
+      background: #ffffff;
+      padding: 48px 24px;
+      text-align: center;
+      border-bottom: 1px solid #e5e7eb;
+    }
+
+    header h1 {
+      font-size: 42px;
+      margin-bottom: 12px;
+      color: #111827;
+    }
+
+    header p {
+      font-size: 18px;
+      color: #6b7280;
+      max-width: 700px;
+      margin: 0 auto;
+    }
+
+    .container {
+      max-width: 1100px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    .filters {
+      display: flex;
+      gap: 12px;
+      flex-wrap: wrap;
+      margin-bottom: 28px;
+    }
+
+    .filter {
+      background: white;
+      border: 1px solid #d1d5db;
+      padding: 10px 16px;
+      border-radius: 999px;
+      font-size: 14px;
+      color: #374151;
+    }
+
+    .job-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 24px;
+    }
+
+    .job-card {
+      background: #ffffff;
+      border: 1px solid #e5e7eb;
+      border-radius: 18px;
+      padding: 24px;
+      box-shadow: 0 8px 24px rgba(0,0,0,0.04);
+      transition: 0.2s;
+    }
+
+    .job-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 30px rgba(0,0,0,0.08);
+    }
+
+    .tag {
+      display: inline-block;
+      background: #e0f2fe;
+      color: #0369a1;
+      padding: 5px 10px;
+      border-radius: 999px;
+      font-size: 12px;
+      margin-bottom: 14px;
+      font-weight: bold;
+    }
+
+    .job-card h2 {
+      font-size: 20px;
+      margin-bottom: 12px;
+      color: #111827;
+    }
+
+    .job-info {
+      font-size: 14px;
+      color: #4b5563;
+      margin-bottom: 6px;
+    }
+
+    .deadline {
+      margin-top: 14px;
+      font-weight: bold;
+      color: #b91c1c;
+    }
+
+    .btn {
+      display: inline-block;
+      margin-top: 18px;
+      text-decoration: none;
+      background: #111827;
+      color: white;
+      padding: 10px 16px;
+      border-radius: 10px;
+      font-size: 14px;
+    }
+
+    .about {
+      background: white;
+      margin-top: 48px;
+      padding: 32px;
+      border-radius: 18px;
+      border: 1px solid #e5e7eb;
+    }
+
+    .about h2 {
+      margin-bottom: 12px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 32px 20px;
+      color: #6b7280;
+      font-size: 14px;
+    }
+  </style>
 </head>
+
 <body>
-  <header class="site-header">
-    <p class="eyebrow">Updated daily</p>
-    <h1>UN Media & Communications Jobs Tracker</h1>
-    <p class="intro">Focused on communications, public information, digital media, journalism, video, advocacy and partnerships roles across the UN system.</p>
-  </header>
 
-  <main>
-    <section class="toolbar">
-      <input id="searchInput" type="search" placeholder="Search title, location, organization..." />
-      <div class="filters" id="filters">
-        <button class="active" data-filter="All">All</button>
-        <button data-filter="Communications">Communications</button>
-        <button data-filter="Public Information">Public Information</button>
-        <button data-filter="Digital / Social Media">Digital / Social Media</button>
-        <button data-filter="Video / Multimedia">Video / Multimedia</button>
-        <button data-filter="Advocacy / Outreach">Advocacy / Outreach</button>
-        <button data-filter="Partnerships">Partnerships</button>
-      </div>
-    </section>
+<header>
+  <h1>🌍 UN Media Jobs Tracker</h1>
+  <p>
+    A curated tracker for United Nations media, communications, public information,
+    digital content and external relations opportunities.
+  </p>
+</header>
 
-    <section class="summary">
-      <span id="jobCount">Loading jobs...</span>
-      <span id="lastUpdated"></span>
-    </section>
+<main class="container">
 
-    <section id="jobsGrid" class="jobs-grid"></section>
-  </main>
+  <div class="filters">
+    <span class="filter">Media</span>
+    <span class="filter">Communications</span>
+    <span class="filter">Public Information</span>
+    <span class="filter">Digital Content</span>
+    <span class="filter">External Relations</span>
+  </div>
 
-  <footer>Built for focused UN media and communications job tracking.</footer>
-  <script src="script.js"></script>
+  <section class="job-grid">
+
+    <div class="job-card">
+      <span class="tag">Communications</span>
+      <h2>Communication Officer</h2>
+      <p class="job-info"><strong>Agency:</strong> UNDP</p>
+      <p class="job-info"><strong>Location:</strong> Bangkok, Thailand</p>
+      <p class="job-info"><strong>Type:</strong> Full-time</p>
+      <p class="deadline">Deadline: 30 June 2026</p>
+      <a class="btn" href="#">View Position</a>
+    </div>
+
+    <div class="job-card">
+      <span class="tag">Public Information</span>
+      <h2>Public Information Officer</h2>
+      <p class="job-info"><strong>Agency:</strong> UN Secretariat</p>
+      <p class="job-info"><strong>Location:</strong> New York, USA</p>
+      <p class="job-info"><strong>Type:</strong> Temporary</p>
+      <p class="deadline">Deadline: 5 July 2026</p>
+      <a class="btn" href="#">View Position</a>
+    </div>
+
+    <div class="job-card">
+      <span class="tag">Digital Media</span>
+      <h2>Social Media Specialist</h2>
+      <p class="job-info"><strong>Agency:</strong> UNICEF</p>
+      <p class="job-info"><strong>Location:</strong> Geneva, Switzerland</p>
+      <p class="job-info"><strong>Type:</strong> Consultant</p>
+      <p class="deadline">Deadline: 12 July 2026</p>
+      <a class="btn" href="#">View Position</a>
+    </div>
+
+    <div class="job-card">
+      <span class="tag">Video</span>
+      <h2>Multimedia Content Producer</h2>
+      <p class="job-info"><strong>Agency:</strong> IFAD</p>
+      <p class="job-info"><strong>Location:</strong> Rome, Italy</p>
+      <p class="job-info"><strong>Type:</strong> Internship / Consultant</p>
+      <p class="deadline">Deadline: Rolling</p>
+      <a class="btn" href="#">View Position</a>
+    </div>
+
+  </section>
+
+  <section class="about">
+    <h2>About this project</h2>
+    <p>
+      This website is designed to track and organize UN-related opportunities
+      in media, communications, journalism, public information, video production,
+      social media and external relations. Future versions will automatically
+      update job listings using GitHub Actions and data scraping.
+    </p>
+  </section>
+
+</main>
+
+<footer>
+  Built by Lareina Wu · Updated regularly · GitHub Pages
+</footer>
+
 </body>
 </html>
