@@ -130,19 +130,6 @@
     "is_new": false
   },
   {
-    "title": "Job Title Asistente de Programa - Gestión de Programa/Proyectos Post level NPSA-5 Apply by Aug-5-26 Agency UNDP Location Montevideo, Uruguay",
-    "organization": "UNDP",
-    "department": "",
-    "location": "Not listed",
-    "level": "Not listed",
-    "deadline": "Not listed",
-    "posted": "",
-    "category": "Video / Multimedia",
-    "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35818",
-    "is_new": false
-  },
-  {
     "title": "Job Title Asociado(a) de Proyecto en la Participación y Seguimiento de Compromisos en el Corredor Biocultural Gran Selva Maya (CDMX) Post level NPSA-7 Apply by Aug-10-26 Agency UNDP Location Mexico",
     "organization": "UNDP",
     "department": "",
@@ -163,7 +150,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35899",
     "is_new": false
@@ -176,7 +163,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35907",
     "is_new": false
@@ -189,7 +176,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35901",
     "is_new": false
@@ -254,22 +241,9 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35819",
-    "is_new": false
-  },
-  {
-    "title": "Job Title Auxiliar de Monitoreo y Evaluación Conformación de Roster NPSA 4 [Open to internal and external applicants] Post level NB2 Apply by Aug-5-26 Agency UNDP Location Bogota, Colombia",
-    "organization": "UNDP",
-    "department": "",
-    "location": "Not listed",
-    "level": "Not listed",
-    "deadline": "Not listed",
-    "posted": "",
-    "category": "Video / Multimedia",
-    "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35847",
     "is_new": false
   },
   {
@@ -283,6 +257,19 @@
     "category": "Digital / Social Media",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35827",
+    "is_new": false
+  },
+  {
+    "title": "Job Title Communication Post level IN Apply by Aug-19-26 Agency UNDP Location Freetown, Sierra Leone",
+    "organization": "UNDP",
+    "department": "",
+    "location": "New York",
+    "level": "Internship",
+    "deadline": "Not listed",
+    "posted": "",
+    "category": "Digital / Social Media",
+    "source": "UNDP Jobs",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36027",
     "is_new": false
   },
   {
@@ -377,6 +364,19 @@
     "is_new": false
   },
   {
+    "title": "Job Title Coordenador(a) Técnico(a) Adjunto(a) – Eixo 2 (Sistema Socioeducativo) (1 vaga) (Office Based) - [Open to Internal & External applicants] Post level NPSA-8 Apply by Aug-19-26 Agency UNDP Location Brasilia, Brazil",
+    "organization": "UNDP",
+    "department": "",
+    "location": "New York",
+    "level": "Not listed",
+    "deadline": "Not listed",
+    "posted": "",
+    "category": "Digital / Social Media",
+    "source": "UNDP Jobs",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36025",
+    "is_new": false
+  },
+  {
     "title": "Job Title Data Architecture Analyst, Short-Term Post level NPSA-9 Apply by Aug-13-26 Agency UNDP Location Chisinau, Moldova",
     "organization": "UNDP",
     "department": "",
@@ -384,7 +384,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35887",
     "is_new": false
@@ -413,6 +413,32 @@
     "category": "Communications",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35767",
+    "is_new": false
+  },
+  {
+    "title": "Job Title Digital Analyst (Open to all Applicants) Post level IPSA-9 Apply by Aug-19-26 Agency UNDP Location Rome, Italy",
+    "organization": "UNDP",
+    "department": "",
+    "location": "New York",
+    "level": "Internship",
+    "deadline": "Not listed",
+    "posted": "",
+    "category": "Digital / Social Media",
+    "source": "UNDP Jobs",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33799",
+    "is_new": false
+  },
+  {
+    "title": "Job Title Digital Media Post level IN Apply by Aug-19-26 Agency UNDP Location Freetown, Sierra Leone",
+    "organization": "UNDP",
+    "department": "",
+    "location": "Not listed",
+    "level": "Not listed",
+    "deadline": "Not listed",
+    "posted": "",
+    "category": "Digital / Social Media",
+    "source": "UNDP Jobs",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36030",
     "is_new": false
   },
   {
@@ -452,19 +478,6 @@
     "category": "Communications",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35811",
-    "is_new": false
-  },
-  {
-    "title": "Job Title Driver Post level NPSA-2 Apply by Aug-5-26 Agency UNDP Location Banjul, Gambia",
-    "organization": "UNDP",
-    "department": "",
-    "location": "Not listed",
-    "level": "Not listed",
-    "deadline": "Not listed",
-    "posted": "",
-    "category": "Video / Multimedia",
-    "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35659",
     "is_new": false
   },
   {
@@ -585,6 +598,19 @@
     "is_new": false
   },
   {
+    "title": "Job Title Graphic Designer Post level IN Apply by Aug-19-26 Agency UNDP Location Freetown, Sierra Leone",
+    "organization": "UNDP",
+    "department": "",
+    "location": "New York",
+    "level": "Internship",
+    "deadline": "Not listed",
+    "posted": "",
+    "category": "Digital / Social Media",
+    "source": "UNDP Jobs",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36028",
+    "is_new": false
+  },
+  {
     "title": "Job Title Human Resources Reporting, Learning and Recruitment Intern Post level IN Apply by Aug-19-26 Agency UNDP Location Copenhagen, Denmark",
     "organization": "UNDP",
     "department": "",
@@ -624,7 +650,7 @@
     "is_new": false
   },
   {
-    "title": "Job Title Investment Modelling Specialist Post level NPSA-10 Apply by Aug-4-26 Agency UNDP Location Bhutan",
+    "title": "Job Title Intergovernmental Engagement Specialist (Open to all applicants applicants) Post level P4 Apply by Aug-19-26 Agency UNDP Location New York, United States",
     "organization": "UNDP",
     "department": "",
     "location": "New York",
@@ -633,7 +659,7 @@
     "posted": "",
     "category": "Digital / Social Media",
     "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35458",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36035",
     "is_new": false
   },
   {
@@ -647,19 +673,6 @@
     "category": "Digital / Social Media",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35161",
-    "is_new": false
-  },
-  {
-    "title": "Job Title Knowledge Management Specialist (Open Externally) Post level NPSA-10 Apply by Aug-4-26 Agency UNV Location Home Based",
-    "organization": "UNDP",
-    "department": "",
-    "location": "New York",
-    "level": "Not listed",
-    "deadline": "Not listed",
-    "posted": "",
-    "category": "Digital / Social Media",
-    "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34980",
     "is_new": false
   },
   {
@@ -686,19 +699,6 @@
     "category": "Digital / Social Media",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35983",
-    "is_new": false
-  },
-  {
-    "title": "Job Title Multi-Country Project Coordinator (Home-based) - [Open to internal and external applicants] Post level NPSA-9 Apply by Aug-4-26 Agency UNDP Location Bridgetown, Barbados",
-    "organization": "UNDP",
-    "department": "",
-    "location": "Remote",
-    "level": "Not listed",
-    "deadline": "Not listed",
-    "posted": "",
-    "category": "Digital / Social Media",
-    "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35574",
     "is_new": false
   },
   {
@@ -735,7 +735,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35656",
     "is_new": false
@@ -767,19 +767,6 @@
     "is_new": false
   },
   {
-    "title": "Job Title Project Analyst (Office Based) [Open to internal and external applicants] Post level NPSA-9 Apply by Aug-4-26 Agency UNDP Location Brasilia, Brazil",
-    "organization": "UNDP",
-    "department": "",
-    "location": "New York",
-    "level": "Not listed",
-    "deadline": "Not listed",
-    "posted": "",
-    "category": "Digital / Social Media",
-    "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35517",
-    "is_new": false
-  },
-  {
     "title": "Job Title Project Analyst on Legal, Social, Gender issues [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-13-26 Agency UNDP Location Ashkhabad, Turkmenistan",
     "organization": "UNDP",
     "department": "",
@@ -793,16 +780,16 @@
     "is_new": false
   },
   {
-    "title": "Job Title Project Associate Post level NPSA-6 Apply by Aug-4-26 Agency UNDP Location Yerevan, Armenia",
+    "title": "Job Title Project Associate, NPSA-7, DS - Dnipro/Mykolaiv/Poltava/Kharkiv, National Position Post level NPSA-7 Apply by Aug-19-26 Agency UNDP Location Dnipro, Ukraine",
     "organization": "UNDP",
     "department": "",
-    "location": "Remote",
+    "location": "Home based",
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Digital / Social Media",
+    "category": "Communications",
     "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35738",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36019",
     "is_new": false
   },
   {
@@ -839,7 +826,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35735",
     "is_new": false
@@ -878,7 +865,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/34745",
     "is_new": false
@@ -923,16 +910,16 @@
     "is_new": false
   },
   {
-    "title": "Job Title STAGIAIRE ICT Post level Apply by Aug-4-26 Agency UNDP Location Yaounde, Cameroon",
+    "title": "Job Title Security Operations Centre Assistant Post level NPSA-5 Apply by Aug-13-26 Agency UNDP Location Ankara, Türkiye",
     "organization": "UNDP",
     "department": "",
-    "location": "New York",
+    "location": "Home based",
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Digital / Social Media",
+    "category": "Communications",
     "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35817",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36022",
     "is_new": false
   },
   {
@@ -943,7 +930,7 @@
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
-    "category": "Video / Multimedia",
+    "category": "Partnerships",
     "source": "UNDP Jobs",
     "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/35949",
     "is_new": false
@@ -975,6 +962,19 @@
     "is_new": false
   },
   {
+    "title": "Job Title Stagiaire Développement Durable et Inclusif Post level IN Apply by Aug-11-26 Agency UNDP Location Abidjan, Cote d'Ivoire",
+    "organization": "UNDP",
+    "department": "",
+    "location": "New York",
+    "level": "Internship",
+    "deadline": "Not listed",
+    "posted": "",
+    "category": "Digital / Social Media",
+    "source": "UNDP Jobs",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36018",
+    "is_new": false
+  },
+  {
     "title": "Job Title Sustainable Trade and Market Partnerships Analyst [Open to internal and external applicants] Post level NPSA-8 Apply by Aug-10-26 Agency UNDP Location Jakarta Pusat, Indonesia",
     "organization": "UNDP",
     "department": "",
@@ -988,16 +988,16 @@
     "is_new": false
   },
   {
-    "title": "Job Title Technical Specialist, Climate and Nature [Open to internal and external applicants] Post level NPSA-10 Apply by Aug-4-26 Agency UNDP Location Cairo, Egypt",
+    "title": "Job Title Technical Analyst – UN Pavilion Coordination and Partnerships (EXPO 2027) - NPSA-9, 50% part-time Post level NPSA-9 Apply by Aug-12-26 Agency UNDP Location Belgrade, Serbia",
     "organization": "UNDP",
     "department": "",
-    "location": "Remote",
+    "location": "New York",
     "level": "Not listed",
     "deadline": "Not listed",
     "posted": "",
     "category": "Digital / Social Media",
     "source": "UNDP Jobs",
-    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/33803",
+    "link": "https://estm.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/requisitions/job/36020",
     "is_new": false
   }
 ]
